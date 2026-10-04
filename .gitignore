@@ -1,0 +1,5 @@
+# 构建输出与本地工具链
+build/
+
+# 签名密钥（构建时自动生成）
+build/debug.keystore
